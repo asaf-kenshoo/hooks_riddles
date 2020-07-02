@@ -1,13 +1,15 @@
-package hooks.riddle;
+package hooks.riddles;
 
-import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.Assert;
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class DnaStrandTest {
   @Test
   public void test01() {
-    assertEquals("TTTT", DnaStrand.makeComplement("AAAA"));
+    Assert.assertEquals("TTTT", DnaStrand.makeComplement("AAAA"));
   }
   @Test
   public void test02() {

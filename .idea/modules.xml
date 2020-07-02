@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hooks_riddles.iml" filepath="$PROJECT_DIR$/hooks_riddles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DNA/DNA.iml" filepath="$PROJECT_DIR$/DNA/DNA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XO/XO.iml" filepath="$PROJECT_DIR$/XO/XO.iml" />
     </modules>
   </component>
 </project>
