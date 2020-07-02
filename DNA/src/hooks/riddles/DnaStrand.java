@@ -15,28 +15,6 @@ import java.util.stream.Collectors;
 
 public class DnaStrand {
     public static String makeComplement(String dna) {
-
-
-
-//      SOLUTION 1
-    /*
-    return dna.replace("A","B")
-            .replace("C","D")
-            .replace("T","A")
-            .replace("G","C")
-            .replace("B","T")
-            .replace("D","G");
-    */
-
-
-      /*
-      SOLUTION 2
-     */
-        HashMap<Character, Character> map = new HashMap<>(4);
-        map.put('A', 'T');
-        map.put('T', 'A');
-        map.put('C', 'G');
-        map.put('G', 'C');
-        return dna.chars().mapToObj(c -> String.valueOf(map.get((char) c))).collect(Collectors.joining());
+        return "";
     }
 }

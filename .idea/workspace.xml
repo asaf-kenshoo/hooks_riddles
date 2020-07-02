@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e006b634-7764-4033-b9fb-55690221e8d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DNA/DNA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DNA/src/hooks/riddles/DnaStrand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XO/XO.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DNA/src/hooks/riddle/DnaStrand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DNA/test/hooks/riddle/DnaStrandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DNA/test/hooks/riddles/DnaStrandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XO/src/hooks/riddle/XO.java" beforeDir="false" afterPath="$PROJECT_DIR$/XO/src/hooks/riddle/XO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks_riddles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hooks_riddles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNA/src/hooks/riddles/DnaStrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/DNA/src/hooks/riddles/DnaStrand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593683541795</updated>
-      <workItem from="1593683544249" duration="105000" />
+      <workItem from="1593683544249" duration="363000" />
     </task>
     <servers />
   </component>
