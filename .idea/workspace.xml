@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e006b634-7764-4033-b9fb-55690221e8d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DNA/src/hooks/riddles/DnaStrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/DNA/src/hooks/riddles/DnaStrand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593683541795</updated>
-      <workItem from="1593683544249" duration="363000" />
+      <workItem from="1593683544249" duration="430000" />
     </task>
     <servers />
   </component>
