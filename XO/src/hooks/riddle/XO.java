@@ -16,7 +16,9 @@ XO("zzoo") => false
 public class XO {
 
   public static boolean getXO(String str) {
-    return true;
+    int numOfX  = (int) str.chars().mapToObj(c -> (char) c).filter(chr -> Character.toLowerCase(chr) == 'x').count();
+    int numOfO  = (int) str.chars().mapToObj(c -> (char) c).filter(chr -> Character.toLowerCase(chr) == 'o').count();
+    return numOfX == numOfO;
   };
 
 }

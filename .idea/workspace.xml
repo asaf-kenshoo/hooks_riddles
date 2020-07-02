@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e006b634-7764-4033-b9fb-55690221e8d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DNA/src/hooks/riddles/DnaStrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/DNA/src/hooks/riddles/DnaStrand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XO/XO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/XO/XO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XO/src/hooks/riddle/XO.java" beforeDir="false" afterPath="$PROJECT_DIR$/XO/src/hooks/riddle/XO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XO/test/hooks/riddle/XOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/XO/test/hooks/riddle/XOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/XO/hooks/riddle/XO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/XO/hooks/riddle/XO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/XO/hooks/riddle/XOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/XO/hooks/riddle/XOTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +17,13 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,11 +45,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hooks.riddle" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.XOTest">
     <configuration name="DnaStrandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DNA" />
       <extension name="coverage">
@@ -53,8 +75,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="XO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hooks.riddle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hooks.riddle" />
+      <option name="MAIN_CLASS_NAME" value="hooks.riddle.XOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XOTest.testSomething1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="XO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hooks.riddle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hooks.riddle" />
+      <option name="MAIN_CLASS_NAME" value="hooks.riddle.XOTest" />
+      <option name="METHOD_NAME" value="testSomething1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.XOTest" />
+        <item itemvalue="JUnit.XOTest.testSomething1" />
         <item itemvalue="JUnit.DnaStrandTest" />
       </list>
     </recent_temporary>
@@ -77,25 +132,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="356" key="GridCell.Tab.0.bottom" timestamp="1593683645830">
+    <state x="100" y="123" width="1718" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593686459217">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683645830" />
-    <state width="1874" height="356" key="GridCell.Tab.0.center" timestamp="1593683645828">
+    <state x="100" y="123" width="1718" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686459217" />
+    <state width="1874" height="356" key="GridCell.Tab.0.bottom" timestamp="1593686524872">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683645828" />
-    <state width="1874" height="356" key="GridCell.Tab.0.left" timestamp="1593683645827">
+    <state width="1874" height="356" key="GridCell.Tab.0.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686524872" />
+    <state width="1874" height="356" key="GridCell.Tab.0.center" timestamp="1593686524871">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683645827" />
-    <state width="1874" height="356" key="GridCell.Tab.0.right" timestamp="1593683645829">
+    <state width="1874" height="356" key="GridCell.Tab.0.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686524871" />
+    <state width="1874" height="356" key="GridCell.Tab.0.left" timestamp="1593686524870">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683645829" />
-    <state x="671" y="451" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593683626873">
+    <state width="1874" height="356" key="GridCell.Tab.0.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686524870" />
+    <state width="1874" height="356" key="GridCell.Tab.0.right" timestamp="1593686524871">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="671" y="451" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683626873" />
+    <state width="1874" height="356" key="GridCell.Tab.0.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686524871" />
+    <state width="1874" height="356" key="GridCell.Tab.1.bottom" timestamp="1593686519066">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1874" height="356" key="GridCell.Tab.1.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686519066" />
+    <state width="1874" height="356" key="GridCell.Tab.1.center" timestamp="1593686519065">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1874" height="356" key="GridCell.Tab.1.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686519065" />
+    <state width="1874" height="356" key="GridCell.Tab.1.left" timestamp="1593686519064">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1874" height="356" key="GridCell.Tab.1.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686519064" />
+    <state width="1874" height="356" key="GridCell.Tab.1.right" timestamp="1593686519065">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1874" height="356" key="GridCell.Tab.1.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686519065" />
+    <state x="671" y="451" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593686350190">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="671" y="451" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686350190" />
+    <state x="738" y="284" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593686352171">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="738" y="284" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593686352171" />
   </component>
 </project>
