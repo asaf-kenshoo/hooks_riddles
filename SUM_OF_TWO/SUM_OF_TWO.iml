@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/out" />
-    <output-test url="file://$MODULE_DIR$/out/test" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/XO/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/XO/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/DNA/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DNA/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/SUM_OF_TOW/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SUM_OF_TOW/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="" scope="TEST">
+    <orderEntry type="module-library" scope="TEST">
       <library name="JUnit5.4">
         <CLASSES>
           <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.4.2/junit-jupiter-5.4.2.jar!/" />

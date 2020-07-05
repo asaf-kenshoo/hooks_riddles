@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e006b634-7764-4033-b9fb-55690221e8d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DNA/src/hooks/riddles/DnaStrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/DNA/src/hooks/riddles/DnaStrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUM_OF_TWO/SUM_OF_TWO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUM_OF_TWO/src/hooks/riddle/SUM_OF_TOW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUM_OF_TWO/test/hooks/riddle/SUM_OF_TOWTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks_riddles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hooks_riddles.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +18,13 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,11 +46,34 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SUM_OF_TWO" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hooks.riddle" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SUM_OF_TWO" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SUM_OF_TWO" />
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/XO/test/hooks/riddle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SUM_OF_TOWTest">
     <configuration name="DnaStrandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DNA" />
       <extension name="coverage">
@@ -53,8 +89,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SUM_OF_TOWTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SUM_OF_TWO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hooks.riddle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hooks.riddle" />
+      <option name="MAIN_CLASS_NAME" value="hooks.riddle.SUM_OF_TOWTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUM_OF_TOWTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SUM_OF_TWO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hooks.riddle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hooks.riddle" />
+      <option name="MAIN_CLASS_NAME" value="hooks.riddle.SUM_OF_TOWTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SUM_OF_TOWTest" />
+        <item itemvalue="JUnit.SUM_OF_TOWTest.test01" />
         <item itemvalue="JUnit.DnaStrandTest" />
       </list>
     </recent_temporary>
@@ -77,25 +146,65 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="356" key="GridCell.Tab.0.bottom" timestamp="1593683645830">
+    <state x="100" y="123" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593956889369">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683645830" />
-    <state width="1874" height="356" key="GridCell.Tab.0.center" timestamp="1593683645828">
+    <state x="100" y="123" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956889369" />
+    <state x="719" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593955919541">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683645828" />
-    <state width="1874" height="356" key="GridCell.Tab.0.left" timestamp="1593683645827">
+    <state x="719" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593955919541" />
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom" timestamp="1593957006438">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683645827" />
-    <state width="1874" height="356" key="GridCell.Tab.0.right" timestamp="1593683645829">
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593957006438" />
+    <state width="1876" height="289" key="GridCell.Tab.0.center" timestamp="1593957006437">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683645829" />
+    <state width="1876" height="289" key="GridCell.Tab.0.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593957006437" />
+    <state width="1876" height="289" key="GridCell.Tab.0.left" timestamp="1593957006436">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593957006436" />
+    <state width="1876" height="289" key="GridCell.Tab.0.right" timestamp="1593957006437">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593957006437" />
+    <state width="1876" height="356" key="GridCell.Tab.1.bottom" timestamp="1593956972630">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956972630" />
+    <state width="1876" height="356" key="GridCell.Tab.1.center" timestamp="1593956972629">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956972629" />
+    <state width="1876" height="356" key="GridCell.Tab.1.left" timestamp="1593956972628">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956972628" />
+    <state width="1876" height="356" key="GridCell.Tab.1.right" timestamp="1593956972629">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956972629" />
+    <state x="589" y="252" key="NewModule_or_Project.wizard" timestamp="1593955818430">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="589" y="252" key="NewModule_or_Project.wizard/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593955818430" />
+    <state x="448" y="133" key="SettingsEditor" timestamp="1593955827524">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="448" y="133" key="SettingsEditor/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593955827524" />
     <state x="671" y="451" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593683626873">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="671" y="451" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593683626873" />
+    <state x="739" y="301" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593956106096">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="739" y="301" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956106096" />
+    <state x="354" y="174" key="new project wizard" timestamp="1593955792095">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="354" y="174" key="new project wizard/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593955792095" />
   </component>
 </project>

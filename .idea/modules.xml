@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DNA/DNA.iml" filepath="$PROJECT_DIR$/DNA/DNA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SUM_OF_TWO/SUM_OF_TWO.iml" filepath="$PROJECT_DIR$/SUM_OF_TWO/SUM_OF_TWO.iml" />
       <module fileurl="file://$PROJECT_DIR$/XO/XO.iml" filepath="$PROJECT_DIR$/XO/XO.iml" />
     </modules>
   </component>
