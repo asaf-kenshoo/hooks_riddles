@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e006b634-7764-4033-b9fb-55690221e8d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SUM_OF_TWO/SUM_OF_TWO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SUM_OF_TWO/src/hooks/riddle/SUM_OF_TOW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SUM_OF_TWO/test/hooks/riddle/SUM_OF_TOWTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks_riddles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hooks_riddles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUM_OF_TWO/src/hooks/riddle/SUM_OF_TOW.java" beforeDir="false" afterPath="$PROJECT_DIR$/SUM_OF_TWO/src/hooks/riddle/SUM_OF_TOW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SUM_OF_TWO/hooks/riddle/SUM_OF_TOW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SUM_OF_TWO/hooks/riddle/SUM_OF_TOW.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,38 +150,38 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="719" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593955919541" />
-    <state width="1876" height="289" key="GridCell.Tab.0.bottom" timestamp="1593957006438">
+    <state width="1876" height="356" key="GridCell.Tab.0.bottom" timestamp="1593960379970">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593957006438" />
-    <state width="1876" height="289" key="GridCell.Tab.0.center" timestamp="1593957006437">
+    <state width="1876" height="356" key="GridCell.Tab.0.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593960379970" />
+    <state width="1876" height="356" key="GridCell.Tab.0.center" timestamp="1593960379969">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593957006437" />
-    <state width="1876" height="289" key="GridCell.Tab.0.left" timestamp="1593957006436">
+    <state width="1876" height="356" key="GridCell.Tab.0.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593960379969" />
+    <state width="1876" height="356" key="GridCell.Tab.0.left" timestamp="1593960379968">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593957006436" />
-    <state width="1876" height="289" key="GridCell.Tab.0.right" timestamp="1593957006437">
+    <state width="1876" height="356" key="GridCell.Tab.0.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593960379968" />
+    <state width="1876" height="356" key="GridCell.Tab.0.right" timestamp="1593960379970">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593957006437" />
-    <state width="1876" height="356" key="GridCell.Tab.1.bottom" timestamp="1593956972630">
+    <state width="1876" height="356" key="GridCell.Tab.0.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593960379970" />
+    <state width="1876" height="356" key="GridCell.Tab.1.bottom" timestamp="1593960379973">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="356" key="GridCell.Tab.1.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956972630" />
-    <state width="1876" height="356" key="GridCell.Tab.1.center" timestamp="1593956972629">
+    <state width="1876" height="356" key="GridCell.Tab.1.bottom/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593960379973" />
+    <state width="1876" height="356" key="GridCell.Tab.1.center" timestamp="1593960379972">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="356" key="GridCell.Tab.1.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956972629" />
-    <state width="1876" height="356" key="GridCell.Tab.1.left" timestamp="1593956972628">
+    <state width="1876" height="356" key="GridCell.Tab.1.center/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593960379972" />
+    <state width="1876" height="356" key="GridCell.Tab.1.left" timestamp="1593960379971">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="356" key="GridCell.Tab.1.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956972628" />
-    <state width="1876" height="356" key="GridCell.Tab.1.right" timestamp="1593956972629">
+    <state width="1876" height="356" key="GridCell.Tab.1.left/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593960379971" />
+    <state width="1876" height="356" key="GridCell.Tab.1.right" timestamp="1593960379972">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="356" key="GridCell.Tab.1.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593956972629" />
+    <state width="1876" height="356" key="GridCell.Tab.1.right/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593960379972" />
     <state x="589" y="252" key="NewModule_or_Project.wizard" timestamp="1593955818430">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -206,5 +202,26 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="354" y="174" key="new project wizard/-1680.23.1680.1027/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1593955792095" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SUM_OF_TWO/src/hooks/riddle/SUM_OF_TOW.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SUM_OF_TWO/src/hooks/riddle/SUM_OF_TOW.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SUM_OF_TWO/src/hooks/riddle/SUM_OF_TOW.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
